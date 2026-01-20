@@ -1,8 +1,7 @@
 ﻿## 🏠 House Price Prediction Using Machine Learning
 
-This project predicts house prices based on various input features using Machine Learning. It also includes a simple **Streamlit web application** to interactively test predictions.
+This project predicts house prices based on various input features using Machine Learning. to interactively test predictions.
 
----
 
 ## 📌 Project Overview
 
@@ -16,7 +15,6 @@ The project covers:
 * Model evaluation
 * Web deployment using Streamlit
 
----
 
 ## 🛠️ Technologies Used
 
@@ -29,33 +27,29 @@ The project covers:
 * **Google Colab**
 * **GitHub**
 
----
 
 ## 📂 Project Structure
 
-```
+
 house-price-prediction/
 │
 ├── house_price_prediction.ipynb   # Main ML notebook
 ├── app.py                         # Streamlit application
 ├── dataset.csv                    # Dataset used for training
-├── model.pkl                      # Saved trained model
-├── requirements.txt               # Required Python libraries
 └── README.md                      # Project documentation
-```
 
----
+
+
 
 ## ⚙️ How It Works
 
 1. Load and preprocess the dataset
 2. Train a regression model (Linear Regression / Random Forest, etc.)
-3. Save the trained model
-4. Use Streamlit to create a web interface
-5. User enters house details
-6. Model predicts the house price
+3. Save the trained model 
+4. User enters house details
+5. Model predicts the house price
 
----
+
 
 ## 🚀 How to Run the Project
 
@@ -64,21 +58,8 @@ house-price-prediction/
 ```bash
 git clone https://github.com/your-username/house-price-prediction.git
 cd house-price-prediction
-```
 
-### 2️⃣ Install Dependencies
 
-```bash
-pip install -r requirements.txt
-```
-
-### 3️⃣ Run Streamlit App
-
-```bash
-streamlit run app.py
-```
-
----
 
 ## 📊 Sample Input Features
 
@@ -88,13 +69,13 @@ streamlit run app.py
 * Location
 * Year built
 
----
+
 
 ## 🎯 Output
 
 * Predicted house price displayed on the web page
 
----
+
 
 ## 📌 Use Cases
 
@@ -103,23 +84,16 @@ streamlit run app.py
 * Academic mini / major project
 * Portfolio project for GitHub
 
----
 
-## 📷 Screenshots
 
-(Add screenshots of your Streamlit app here)
 
----
 
-## 👩‍💻 Author
+
 
 **Gayatri Gedala**
 Computer Science Student | Machine Learning Enthusiast
 
 ---
 
-## ⭐ GitHub Note
 
-If you like this project, don’t forget to ⭐ the repository!
- House-Price-Prediction
 
